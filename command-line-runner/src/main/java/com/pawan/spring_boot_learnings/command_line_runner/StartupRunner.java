@@ -1,4 +1,4 @@
-package com.pawan.command_line_runner;
+package com.pawan.spring_boot_learnings.command_line_runner;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
